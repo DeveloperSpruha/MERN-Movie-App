@@ -1,0 +1,9 @@
+@media screen and (max-width:768px) {
+    .Home, .LatestMovies, .Watchlist{
+        display: none;
+    }
+}
+
+.icon{
+    margin: 0rem 0.5rem;
+}

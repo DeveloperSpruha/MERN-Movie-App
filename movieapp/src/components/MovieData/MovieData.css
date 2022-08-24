@@ -1,0 +1,33 @@
+button:hover{
+    background-color: green;
+    color: white;
+    transition: 0.25s ease;
+}
+
+.addBtn, .loginBtn{
+    width:75%;
+    height:50px;
+    border-radius:25px;
+    background-color:transparent;
+    border:1px solid green;
+    color:green;
+    cursor:pointer;
+    transition: 0.5s ease;
+}
+
+.castTitle{
+    text-align: center;
+}
+
+.charName{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.tagline{
+    text-align: center;
+}
+
+textarea:focus{
+    outline: none;
+}
